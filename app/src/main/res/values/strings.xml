@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StripePaymentSample</string>
+    <string name="publishablekey">publishablekey</string>
+
+</resources>
